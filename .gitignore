@@ -1,0 +1,4 @@
+/build/
+.project
+.settings/*
+/WebContent/META-INF/*
