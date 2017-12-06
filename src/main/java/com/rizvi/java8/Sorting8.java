@@ -26,7 +26,7 @@ public class Sorting8 {
 		System.out.println("Sort String using Java 7 syntax: ");
 		tester.sortUsingJava7(names1);
 		System.out.println(names1);
-		
+
 		System.out.println("Sort String using Java 8 syntax: ");
 		tester.sortUsingJava8(names1);
 		System.out.println(names1);
